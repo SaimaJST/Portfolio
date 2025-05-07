@@ -38,6 +38,12 @@
     .image{
         margin-right: 0;
     }
+
+    .image .circle{
+    top: 50%;
+    left: 53.5%;
+    }
+    
     .image, .image img{
         width: 300px;
         height: 300px;
@@ -52,6 +58,10 @@
 
     .nav-menu.responsive{
         left: 65%;
+    }
+    .image .circle{
+    top: 50%;
+    left: 50%;
     }
     .nav-menu{
         position: fixed;
