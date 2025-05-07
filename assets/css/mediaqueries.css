@@ -51,12 +51,12 @@
 @media only screen and (max-width: 900px) {
 
     .nav-menu.responsive{
-        left: 75%;
+        left: 65%;
     }
     .nav-menu{
         position: fixed;
         top: 90px;
-        right: -75%;
+        right: -65%;
         flex-direction: column;
         justify-content: center;
         align-items: center;
