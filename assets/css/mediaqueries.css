@@ -108,7 +108,6 @@
         width: 100%;
         order: 2;
         align-self: center;
-        margin-top:60px;
         justify-content: center;
         align-content: center;
         min-height: 60vh;
@@ -165,6 +164,9 @@
     .featured-name{
         font-size: 35px;
     }
+   .featured-text{
+        margin-top:60px;
+   }
     .featured-text-card>span{
         font-size: 15px;
     }
