@@ -153,7 +153,7 @@ nav{
     position: relative;
     display: flex;
     height: 100vh;
-    min-height: 700px;
+    min-height: 1000px;
 }
 
 /* ----- FEATURED TEXT BOX ----- */
