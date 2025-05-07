@@ -51,20 +51,20 @@
 @media only screen and (max-width: 900px) {
 
     .nav-menu.responsive{
-        left: 70%;
+        left: 65%;
     }
     .nav-menu{
         position: fixed;
         top: 80px;
-        right: -70%;
+        right: -65%;
         flex-direction: column;
         justify-content: center;
         align-items: center;
         background: rgb(45, 76, 112);
         backdrop-filter: blur(20px);
-        width: 30%;
+        width: 26%;
         min-height: 400px;
-        height: 10vh;
+        height: 8vh;
         transition: .3s;
     }
     .nav_menu_list{
@@ -74,6 +74,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        margin-right: 15px;
     }
     .featured-box{
         flex-direction: column;
@@ -178,16 +179,16 @@
         margin-top: 100px;
     }
       .featured-text{
-        margin-top:15px;
+        margin-top:20px;
     }
 }
 
 @media only screen and (max-width: 400px){
    .featured-image{
-        margin-top: 140px;
+        margin-top: 160px;
     }
     .featured-text{
-        margin-top:80px;
+        margin-top:85px;
     }
 }
 
