@@ -51,12 +51,12 @@
 @media only screen and (max-width: 900px) {
 
     .nav-menu.responsive{
-        left: 65%;
+        left: 75%;
     }
     .nav-menu{
         position: fixed;
         top: 90px;
-        right: -65%;
+        right: -75%;
         flex-direction: column;
         justify-content: center;
         align-items: center;
@@ -74,7 +74,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-right: 15px;
+        margin-right: 50px;
     }
     .featured-box{
         flex-direction: column;
