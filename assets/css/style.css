@@ -85,8 +85,6 @@ body{
 /* ----- NAVIGATION BAR ----- */
 #header{
 	background-color:#26355D;
-	padding-left: 30px;
-        padding-right: 0px;
 }
 nav{
     position: fixed;
