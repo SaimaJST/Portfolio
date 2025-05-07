@@ -108,6 +108,7 @@
         width: 100%;
         order: 2;
         align-self: center;
+        margin-top:35px;
         justify-content: center;
         align-content: center;
         min-height: 60vh;
@@ -184,21 +185,4 @@
     }
 }
 
-@media only screen and (max-width: 420px){
-   .featured-image{
-        margin-top: 100px;
-    }
-      .featured-text{
-        margin-top:20px;
-    }
-}
-
-@media only screen and (max-width: 400px){
-   .featured-image{
-        margin-top: 160px;
-    }
-    .featured-text{
-        margin-top:85px;
-    }
-}
 
